@@ -29,4 +29,3 @@ const neyzi = {
 ```
 
 <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWJ5dXFtNzFrZWpobGM0dXNuZmphNmpjcjR1cW9qbzM2OWQ2MGFrciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/yYSSBtDgbbRzq/giphy.gif" width="200">
----
