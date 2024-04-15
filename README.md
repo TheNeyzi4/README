@@ -21,7 +21,9 @@ const neyzi = {
 
 ```javascript
 const neyzi = {
-  code: [Javascript, HTML, CSS, SCSS],
+  code: [Javascript, C#, C++, Python],
+  techology: [HTML, CSS, SCSS],
+  Tools: [Figma, Photoshop,],
   country: [Ukraine],
 }
 ```
